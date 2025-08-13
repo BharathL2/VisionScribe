@@ -38,7 +38,6 @@ An intuitive tool for labeling images and videos for computer vision tasks, supp
 - [Project Structure](#-project-structure)
 - [FAQ](#-faq)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Author](#-author)
 
 ---
