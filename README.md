@@ -8,10 +8,9 @@
 An intuitive tool for labeling images and videos for computer vision tasks, supporting multiple annotation formats like **PASCAL VOC** and **YOLO**. This project is an enhanced version based on the original **OpenLabeling** tool.
 
 <p align="center">
-  <a href="assets/Untitled video - Made with Clipchamp (3).mp4">
-    <img src="assets/video-thumbnail.png" width="80%">
-  </a>
+  <img src="Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif" width="45%">
 </p>
+
 
 
 ---
