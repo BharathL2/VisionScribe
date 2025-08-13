@@ -8,19 +8,11 @@
 An intuitive tool for labeling images and videos for computer vision tasks, supporting multiple annotation formats like **PASCAL VOC** and **YOLO**. This project is an enhanced version based on the original **OpenLabeling** tool.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l49JDgDSygJN369vW/giphy.gif" width="45%">
-  <img src="https://media.giphy.com/media/3ohc1csRs9PoDgCeuk/giphy.gif" width="45%"><br/>
-  <img src="https://media.giphy.com/media/3o752fXKwTJJkhXP32/giphy.gif" width="45%">
-  <img src="https://media.giphy.com/media/3ohc11t9auzSo6fwLS/giphy.gif" width="45%">
+  <a href="assets/Untitled video - Made with Clipchamp (3).mp4">
+    <img src="assets/video-thumbnail.png" width="80%">
+  </a>
 </p>
 
----
-
-## Acknowledgments
-
-This project builds on the excellent foundational work of the
-[OpenLabeling project by João Cartucho](https://github.com/Cartucho/OpenLabeling).  
-A big thank you to the original authors for creating a versatile and open-source tool for the community.
 
 ---
 
@@ -57,7 +49,7 @@ A big thank you to the original authors for creating a versatile and open-source
 Clone the repository (replace placeholders with your actual GitHub details):
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VisionScribe.git
+git clone https://github.com/BharathL2/VisionScribe
 cd VisionScribe
 ```
 
@@ -194,16 +186,11 @@ Contributions are welcome! Please:
 
 For major changes, open an issue first to discuss what you would like to change.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👤 Author
 
-**YOUR NAME** — [YOUR GITHUB PROFILE LINK]  
+**YOUR NAME** — [[YOUR GITHUB PROFILE LINK](https://github.com/BharathL2)]  
 
 > Feel free to contribute by forking this repository and submitting a pull request!
