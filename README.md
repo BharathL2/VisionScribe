@@ -189,6 +189,6 @@ For major changes, open an issue first to discuss what you would like to change.
 
 ## 👤 Author
 
-**YOUR NAME** — [[YOUR GITHUB PROFILE LINK](https://github.com/BharathL2)]  
+**YOUR NAME** — [https://github.com/BharathL2]  
 
 > Feel free to contribute by forking this repository and submitting a pull request!
